@@ -1,6 +1,6 @@
 <template id="first-krypto-watcher">
 	<div>
-		<pre>{{ infoBTC[6] }}</pre>
+		<pre>{{ infoBTC[5] }}</pre>
 		<div class="small">
 			<line-chart :chart-data="datacollection"/>	
 		</div>
