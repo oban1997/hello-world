@@ -7,6 +7,7 @@ import moment from 'moment'
 
 Vue.use(VueAxios, axios);
 Vue.use(VueMomentJS, moment);
+//Радномный комент
 
 new Vue({
   el: '#app',
